@@ -1,6 +1,5 @@
-# test
-## You should create a program that takes two integers from a user and prints great denominator of two numbers....
-## For example:
-## 99 27 ----> 9
-## 36 16 ----> 4
+# Упражнение на тему Списки
+## 1. Напишите программу для удаление дубликатов из списка
+##                a = [10,20,30,20,10,50,60,40,80,50,40]
+##                     [10, 20, 30, 50, 60, 40, 80]
 
