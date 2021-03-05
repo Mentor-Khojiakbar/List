@@ -1,5 +1,7 @@
-lab50: true
-       files:
-          -!include test.py
-        
-  
+lab50:
+  window:
+    - editor
+    - readme
+    - terminal
+  files:
+    - !include test.py
