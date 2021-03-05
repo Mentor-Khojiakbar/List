@@ -5,3 +5,4 @@ lab50:
     - terminal
   files:
     - !include test.py
+    - !include problem1.py
