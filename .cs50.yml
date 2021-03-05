@@ -1,2 +1,5 @@
 lab50: true
+       files:
+          -!include test.py
+        
   
