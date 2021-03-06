@@ -4,7 +4,7 @@ lab50:
     - readme
     - terminal
   files:
-    - !include test.py
+    - !include instruction.txt
     - !include problem1.py
     - !include problem2.py
     - !include problem3.py
