@@ -6,3 +6,7 @@ lab50:
   files:
     - !include test.py
     - !include problem1.py
+    - !include problem2.py
+    - !include problem3.py
+    - !include problem4.py
+    - !include problem5.py
